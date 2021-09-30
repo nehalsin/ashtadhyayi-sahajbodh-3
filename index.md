@@ -3,3 +3,4 @@
 - [Preface](preface.md)
 - [Table of Contents](toc.md)
 - [Topic Introduction](topic-intro.md)
+- [Aardhdhatuk Pratyay](aardhprat.md) 
