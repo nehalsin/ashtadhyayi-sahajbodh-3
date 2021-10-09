@@ -56,4 +56,18 @@
 
 ![asb3-aardhprat-2021-10-04-6](asb3-aardhprat-2021-10-04-6.jpg)
 
+### 2021-10-08
 
+![asb3-aardhprat-2021-10-08-1](asb3-aardhprat-2021-10-08-1.jpg)
+
+![asb3-aardhprat-2021-10-08-2](asb3-aardhprat-2021-10-08-2.jpg)
+
+![asb3-aardhprat-2021-10-08-3](asb3-aardhprat-2021-10-08-3.jpg)
+
+### 2021-10-09
+
+![asb3-aardhprat-2021-10-09-1](asb3-aardhprat-2021-10-09-1.jpg)
+
+![asb3-aardhprat-2021-10-09-2](asb3-aardhprat-2021-10-09-2.jpg)
+
+![asb3-aardhprat-2021-10-09-3](asb3-aardhprat-2021-10-09-3.jpg)
