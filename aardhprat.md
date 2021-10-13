@@ -1,6 +1,6 @@
 # Ashtadhyayi Sahajbodh 3
 
-## Aardhdhatuk Pratyay
+## आर्धधातुक प्रत्यय (Aardhdhatuk Pratyay)
 
 ### 2021-09-30
 
@@ -71,3 +71,9 @@
 ![asb3-aardhprat-2021-10-09-2](asb3-aardhprat-2021-10-09-2.jpg)
 
 ![asb3-aardhprat-2021-10-09-3](asb3-aardhprat-2021-10-09-3.jpg)
+
+### 2021-10-12
+
+![asb3-aardhprat-2021-10-12-1](asb3-aardhprat-2021-10-12-1.jpg)
+
+![asb3-aardhprat-2021-10-12-2](asb3-aardhprat-2021-10-12-2.jpg)
