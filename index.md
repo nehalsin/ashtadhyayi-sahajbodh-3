@@ -1,6 +1,7 @@
-# Ashtadhyayi Sahajbodh 3
+# अष्टाध्यायी सहजबोध ३ 
 
-- [Preface](preface.md)
-- [Table of Contents](toc.md)
-- [Topic Introduction](topic-intro.md)
-- [Aardhdhatuk Pratyay](aardhprat.md) 
+- [प्रस्तावना](preface.md)
+- [विषयानुक्रमणिका](toc.md)
+- [विषय प्रवेश](topic-intro.md)
+- [आर्धधातुक प्रत्यय](aardhprat.md) 
+- [हल् सन्धि](halsandhi.md)
