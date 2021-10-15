@@ -5,3 +5,4 @@
 - [विषय प्रवेश](topic-intro.md)
 - [आर्धधातुक प्रत्यय](aardhprat.md) 
 - [हल् सन्धि](halsandhi.md)
+- [अष्टाध्यायी की संरचना](ashtadhyayi-ki-sanrachna.md)
