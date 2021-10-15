@@ -17,3 +17,9 @@
 ![asb3-halsandhi-2021-10-13-8](asb3-halsandhi-2021-10-13-8.jpg)
 
 ![asb3-halsandhi-2021-10-13-9](asb3-halsandhi-2021-10-13-9.jpg)
+
+### २०२१-१०-१४
+
+![asb3-halsandhi-2021-10-14-1](asb3-halsandhi-2021-10-14-1.jpg)
+
+![asb3-halsandhi-2021-10-14-2](asb3-halsandhi-2021-10-14-2.jpg)
