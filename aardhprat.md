@@ -1,8 +1,8 @@
-# Ashtadhyayi Sahajbodh 3
+# अष्टाध्यायी सहजबोध ३
 
-## आर्धधातुक प्रत्यय (Aardhdhatuk Pratyay)
+## आर्धधातुक प्रत्यय 
 
-### 2021-09-30
+### २०२१-०९-३० 
 
 ![asb3-aardhprat-2021-09-30-01](asb3-aardhprat-2021-09-30-01.jpg)
 
@@ -12,13 +12,13 @@
 
 ![asb3-aardhprat-2021-09-30-04](asb3-aardhprat-2021-09-30-04.jpg)
 
-### 2021-10-01
+### २०२१-१०-०१ 
 
 ![asb3-aardhprat-2021-10-01-1](asb3-aardhprat-2021-10-01-1.jpg)
 
 ![asb3-aardhprat-2021-10-01-2](asb3-aardhprat-2021-10-01-2.jpg)
 
-### 2021-10-02
+### २०२१-१०-०२ 
 
 ![asb3-aardhprat-2021-10-02-1](asb3-aardhprat-2021-10-02-1.jpg)
 
@@ -26,7 +26,7 @@
 
 ![asb3-aardhprat-2021-10-02-3](asb3-aardhprat-2021-10-02-3.jpg)
 
-### 2021-10-03
+### २०२१-१०-०३ 
 
 ![asb3-aardhprat-2021-10-03-1](asb3-aardhprat-2021-10-03-1.jpg)
 
@@ -42,7 +42,7 @@
 
 ![asb3-aardhprat-2021-10-03-7](asb3-aardhprat-2021-10-03-7.jpg)
 
-### 2021-10-04
+### २०२१-१०-०४ 
 
 ![asb3-aardhprat-2021-10-04-1](asb3-aardhprat-2021-10-04-1.jpg)
 
@@ -56,7 +56,7 @@
 
 ![asb3-aardhprat-2021-10-04-6](asb3-aardhprat-2021-10-04-6.jpg)
 
-### 2021-10-08
+### २०२१-१०-०८ 
 
 ![asb3-aardhprat-2021-10-08-1](asb3-aardhprat-2021-10-08-1.jpg)
 
@@ -64,7 +64,7 @@
 
 ![asb3-aardhprat-2021-10-08-3](asb3-aardhprat-2021-10-08-3.jpg)
 
-### 2021-10-09
+### २०२१-१०-०९ 
 
 ![asb3-aardhprat-2021-10-09-1](asb3-aardhprat-2021-10-09-1.jpg)
 
@@ -72,13 +72,13 @@
 
 ![asb3-aardhprat-2021-10-09-3](asb3-aardhprat-2021-10-09-3.jpg)
 
-### 2021-10-12
+### २०२१-१०-१२ 
 
 ![asb3-aardhprat-2021-10-12-1](asb3-aardhprat-2021-10-12-1.jpg)
 
 ![asb3-aardhprat-2021-10-12-2](asb3-aardhprat-2021-10-12-2.jpg)
 
-### 2021-10-13
+### २०२१-१०-१३ 
 
 ![asb3-aardhprat-2021-10-13-1](asb3-aardhprat-2021-10-13-1.jpg)
 
